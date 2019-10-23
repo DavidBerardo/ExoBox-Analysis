@@ -1,0 +1,1 @@
+Period f, Period d, overlap percentage
